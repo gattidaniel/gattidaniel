@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi 👋
+
+I don't have too much to show here, most of my work is for private companies. Still thank you for visiting my profile.
+
+
 
 <!--
 **gattidaniel/gattidaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
